@@ -123,9 +123,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/unique-binary-search-trees/
 
 ## Pattern: Modified Binary Search
-- [ ] https://leetcode.com/problems/binary-search/ (Blind)
+- [X] https://leetcode.com/problems/binary-search/ (Blind)
 - Couldn't find Ceiling of a Number
-- [ ] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+- [X] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 - [ ] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 - [ ] https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 - [ ] https://leetcode.com/problems/minimum-absolute-difference/ (Close)
