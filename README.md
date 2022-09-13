@@ -82,7 +82,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/reverse-linked-list-ii/
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
 - Alternation to previous question
-- [ ] https://leetcode.com/problems/rotate-list/
+- [X] https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
 - [X] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
